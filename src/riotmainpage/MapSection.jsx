@@ -38,7 +38,7 @@ const MapSection = () => {
                                 {gamevideoData.map((video, index) => (
                                     <Li key={index} onClick={() => handleLiClick(video)}>
                                         <img
-                                            src={`./public/mainpageimg/playimg${index + 1}.jpg`}
+                                            src={`../public/mainpageimg/playimg${index + 1}.jpg`}
                                             alt=""
                                         />
                                         <p>{video.name}</p>
