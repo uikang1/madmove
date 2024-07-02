@@ -16,7 +16,7 @@ const TopVideo = () => {
     return (
         <Top>
             <VideoBackground autoPlay loop muted={!isPlaying}>
-                <source src="./public/video/madmovie2.mp4" />
+                <source src="/public/video/madmovie2.mp4" />
             </VideoBackground>
             <img
                 src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9eb028de391e65072d06e77f06d0955f66b9fa2c-736x316.png?auto=format&fit=fill&q=80&w=300"
