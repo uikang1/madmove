@@ -32,7 +32,7 @@ const MoreSection = () => {
                 <InfoItems>
                     <InfoItem>
                         <InfoImage
-                            src="/public/mainpageimg/moreimg2.png"
+                            src="./public/mainpageimg/moreimg2.png"
                             alt="Faker"
                             onClick={() =>
                                 openModal(
@@ -47,7 +47,7 @@ const MoreSection = () => {
                     </InfoItem>
                     <InfoItem>
                         <InfoImage
-                            src="/public/mainpageimg/moreimg1.png"
+                            src="./public/mainpageimg/moreimg1.png"
                             alt="MSI 2024"
                             onClick={() =>
                                 openModal(

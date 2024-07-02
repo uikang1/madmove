@@ -57,7 +57,7 @@ const NewsSectioncontainer = () => {
                         href="https://www.leagueoflegends.com/ko-kr/news/dev/dev-arena/"
                         target="blank"
                     >
-                        <NewsImage src="/public/mainpageimg/newsimg3.jpg" alt="News 3" />
+                        <NewsImage src="./public/mainpageimg/newsimg3.jpg" alt="News 3" />
 
                         <b>개발자 블로그 | </b>
                         <span>12개월 전</span>
